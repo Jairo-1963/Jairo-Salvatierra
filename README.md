@@ -6,7 +6,7 @@
 🎓 **Educación:** Tecnólogo Superior en Desarrollo de Software (ITB) | Especialización en Data-Driven Decisions (ESPOL)  
 📧 **Email:** ssalvatierrajairo88@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/jairo-salvatierra/  
-🐙 **GitHub:** [@jairo-salvatierra](https://github.com/jairo-salvatierra)  
+🐙 **GitHub:** [@Jairo-1963](https://github.com/Jairo-1963)  
 
 ---
 
@@ -62,8 +62,8 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que resuelvan
 
 ## 📈 **Estadísticas de GitHub**
 
-![Estadísticas de Jairo](https://github-readme-stats.vercel.app/api?username=jairo-salvatierra&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo-salvatierra&layout=compact&theme=tokyonight&hide_border=true)
+![Estadísticas de Jairo](https://github-readme-stats.vercel.app/api?username=Jairo-1963&show_icons=true&theme=tokyonight&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-1963&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -111,4 +111,4 @@ No dudes en contactarme a través de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-salvatierra/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssalvatierrajairo88@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jairo-salvatierra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jairo-1963)
